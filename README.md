@@ -20,10 +20,8 @@ Hei! 👋 Olen [Lassi], innokas ohjelmoinnin ja teknologian harrastaja, joka opi
 - ✉️ Sähköposti: [...]
 
 ## 📊 Tilastoni
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=käyttäjänimi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lassimo&show_icons=true&theme=radical)
 
 ## 🚀 Viimeisimmät projektini
-- [Projektin Nimi](https://github.com/lassimo/projekti) - Kuvaus projektista.
-- [Toinen Projekti](https://github.com/lassimo/toinen-projekti) - Lyhyt kuvaus tästä projektista.
 
 Pidän yhteisön tukemisesta ja uuden oppimisesta, joten älä epäröi ottaa yhteyttä tai antaa palautetta projekteistani! 😊
