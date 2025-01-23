@@ -9,10 +9,9 @@ Hei! 👋 Olen [Lassi], innokas ohjelmoinnin ja teknologian harrastaja, joka opi
 - 🛠️ Tavoitteeni: Kehittää taitoja web-kehityksessä, tekoälyssä ja tietoturvassa.
 
 ## 🔧 Taitoni
-- **Ohjelmointikielet:** Python, JavaScript, HTML, CSS
+- **Ohjelmointikielet:** JavaScript, HTML, CSS
 - **Työkalut:** Git, VS Code, Docker
-- **Teknologiat:** React, Node.js, SQL
-- **Käynnissä olevat opinnot:** [mainitse kurssit tai alueet, joita opiskelet]
+- **Teknologiat:** Node.js, SQL
 
 ## 🌐 Löydät minut myös täältä:
 - 💼 [LinkedIn](https://linkedin.com/in/lassi.mort)
